@@ -24,5 +24,3 @@ Empty.
 ### Contact
 
 Email: sslaw@zju.edu.cn
-
-[Message Board.]()
