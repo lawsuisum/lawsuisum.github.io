@@ -1,9 +1,11 @@
 ## Welcome to sslaw's blog!
 
 I am currently an undergraduate student major in computer science in ZJU. My main interests are optimizations and machine learning scenarios.
-This page is not always serious and academic. I will (in)frequently share some interesting experiences [here](https://github.com/lawsuisum/lawsuisum.github.io). 
+This page is not always serious and academic. I will (in)frequently share some interesting experiences [here](). 
 
 Welcome, and have fun!
+
+All the content files are placed [here](https://github.com/lawsuisum/lawsuisum.github.io).
 
 ### Projects
 
@@ -11,11 +13,13 @@ Welcome, and have fun!
 
 ### Notes
 
-[Functional Analysis.](https://github.com/lawsuisum/lawsuisum.github.io/tree/main/Notes/Functional%20Analysis) 
+[Functional Analysis.](https://github.com/lawsuisum/lawsuisum.github.io/tree/main/Notes/Functional%20Analysis) Brief notes for functional applied functional analysis.
 
-[Calculus of Variations.](https://github.com/lawsuisum/lawsuisum.github.io/blob/main/Notes/Calculus%20of%20Variations.pdf)
+[Calculus of Variations.](https://github.com/lawsuisum/lawsuisum.github.io/blob/main/Notes/Calculus%20of%20Variations.pdf) A quick guide for calculus of variations.
 
-[Understanding Conjugate Gradients.](https://github.com/lawsuisum/lawsuisum.github.io/blob/main/Notes/Understanding_Conjugate_Gradients.pdf)
+[Understanding Conjugate Gradients.](https://github.com/lawsuisum/lawsuisum.github.io/blob/main/Notes/Understanding_Conjugate_Gradients.pdf) Painless keypoints for painless conjugate gradients.
+
+[CAP Theory.](https://github.com/lawsuisum/lawsuisum.github.io/blob/main/Notes/CAP-critique.pdf) A clear introduction to CAP theory (by Martin Kleppmann).
 
 ### Recreation Board
 
