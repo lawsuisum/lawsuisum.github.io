@@ -7,7 +7,7 @@ Welcome, and have fun!
 
 ### Projects
 
-Empty.
+[2020 ICM Problem D.](https://github.com/lawsuisum/2020-ICM-D) This work is for the ICM competition and is mainly about the football game team strategy based on big data. Thanks cordially to the combined efforts of whole team (L.Q. Huang, Y.Z. Zhang and me), we fortunately win an M-prize!
 
 ### Notes
 
