@@ -19,7 +19,9 @@ All the content files are placed [here](https://github.com/lawsuisum/lawsuisum.g
 
 [Understanding Conjugate Gradients.](https://github.com/lawsuisum/lawsuisum.github.io/blob/main/Notes/Understanding_Conjugate_Gradients.pdf) Painless keypoints for painless conjugate gradients.
 
-[CAP Theory.](https://github.com/lawsuisum/lawsuisum.github.io/blob/main/Notes/CAP-critique.pdf) A clear introduction to CAP theory (by Martin Kleppmann).
+[CAP Theory.](https://github.com/lawsuisum/lawsuisum.github.io/blob/main/Notes/CAP-critique.pdf) A clear introduction to CAP theory. (by Martin Kleppmann)
+
+[Tricks to Write Bad Papers.](https://github.com/lawsuisum/lawsuisum.github.io/blob/main/Notes/FredoBadWriting.pdf) Learn how to write BAD papers! (by Frédo Durand)
 
 ### Recreation Board
 
